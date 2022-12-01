@@ -1,4 +1,4 @@
-package com.fintlabs.note;
+package no.fintlabs.note;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

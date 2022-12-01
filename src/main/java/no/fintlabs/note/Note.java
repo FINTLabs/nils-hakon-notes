@@ -1,4 +1,4 @@
-package com.fintlabs.note;
+package no.fintlabs.note;
 
 import lombok.*;
 

@@ -66,5 +66,5 @@ jobs:
           manifests: ${{ steps.bake-alpha.outputs.manifestsBundle }}
           images: |
             ${{ steps.meta.outputs.tags }}
-          namespace: mils-hakon
+          namespace: nils-hakon
           action: deploy
